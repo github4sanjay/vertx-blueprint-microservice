@@ -1,0 +1,18 @@
+{
+  "api.gateway.http.port": 8787,
+  "api.gateway.http.address": "localhost",
+  "circuit-breaker": {
+    "name": "api-gateway-cb",
+    "timeout": 10000,
+    "max-failures": 5
+  },
+  "realm": "master",
+  "auth-server-url": "http://keycloak-server:8080/auth",
+  "ssl-required": "external",
+  "resource": "vertx-blueprint",
+  "credentials": {
+    "secret": "d59b87d1-c5a7-4896-aa96-3e56bde27a59"
+  },
+  "confidential-port": 0,
+  "use-resource-role-mappings": true
+}
