@@ -28,13 +28,6 @@ by the end of May. See [here](https://github.com/sczyh30/vertx-blueprint-microse
 - Centralized logging using ELK stack
 - Monitoring
 
-## Documentation
-
-Detailed tutorials are available here!
-
-    - [Vert.x Blueprint - Micro Shop microservice practice (Development)](http://sczyh30.github.io/vertx-blueprint-microservice/index.html)
-    - [Vert.x Blueprint - Micro Shop microservice practice (API Gateway)](http://sczyh30.github.io/vertx-blueprint-microservice/api-gateway.html)
-
 ## Architecture
 
 ![Microservice Architecture](docs/images/entire-architecture.png)
