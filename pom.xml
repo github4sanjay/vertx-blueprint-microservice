@@ -32,7 +32,7 @@
   <properties>
     <vertx.version>3.4.1</vertx.version>
     <mysql.conn.version>6.0.5</mysql.conn.version>
-    <log4j.version>2.8</log4j.version>
+    <log4j.version>2.14.0</log4j.version>
 
     <!--overridden in each project packaged as a fat jar -->
     <main.verticle/>
